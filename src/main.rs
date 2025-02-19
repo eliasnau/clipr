@@ -53,7 +53,7 @@ fn main() -> anyhow::Result<()> {
                 if content.is_empty() {
                     println!("{}", "Clipboard is empty".yellow());
                 } else {
-                    println!("{}", "Current clipboard content:".blue());
+                    //println!("{}", "Current clipboard content:".blue());
                     println!("{}", content);
                 }
                 return Ok(());

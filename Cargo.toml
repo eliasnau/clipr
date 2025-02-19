@@ -1,6 +1,6 @@
 [package]
 name = "clipr"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A simple clipboard utility for command line"
 authors = ["Elias Nau <contact@eliasnau.dev>"]
